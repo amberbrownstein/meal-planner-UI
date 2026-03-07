@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "1dafe6f6-f166-4310-b52b-642af6140646"
+      }
+    },
+    "android": {
+      "package": "com.abrownstein.mealplannerui"
+    }
+  }
+}

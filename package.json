@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@types/react": "~19.2.10",
+    "eslint": "^9.0.0",
+    "eslint-config-expo": "~55.0.0",
+    "eslint-config-react-app": "^7.0.1"
+  },
+  "dependencies": {
+    "expo": "^55.0.4",
+    "jquery": "^3.7.1",
+    "jsdom": "^26.0.0",
+    "xhr": "^2.6.0",
+    "xmlhttprequest": "^1.8.0",
+    "react": "19.2.0",
+    "react-native": "0.83.2"
+  },
+  "name": "meal-planner-UI",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "expo lint"
+  }
+}
