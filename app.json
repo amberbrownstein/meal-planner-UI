@@ -7,6 +7,12 @@
     },
     "android": {
       "package": "com.abrownstein.mealplannerui"
-    }
+    },
+    "plugins": [
+      "expo-font",
+      "expo-image",
+      "expo-router",
+      "expo-web-browser"
+    ]
   }
 }

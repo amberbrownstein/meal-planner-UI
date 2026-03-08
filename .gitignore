@@ -120,7 +120,7 @@ app.*.symbols
 /.idea/
 /.vs/
 /android/
-/meal-planner/.vscode/
+/.vscode/
 /bin
 /node_modules/
 /.expo/
